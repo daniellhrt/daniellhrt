@@ -16,3 +16,9 @@
   <img align="center" alt="Daniel-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Daniel-Spring" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg">
 </div>
+
+##
+
+<div>
+ <a href="https://www.linkedin.com/in/daniellhrt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
