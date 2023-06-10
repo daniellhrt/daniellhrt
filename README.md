@@ -1,8 +1,11 @@
-## Olá, eu sou o Daniel, bem vindo ao meu github 😎🧐
-- 🔭 Sou barbeiro desde 2018, sou sócio com mais 3 colegas, nossa barbearia fica localizada no Centro de Gravataí - RS
-- 👨‍💻📱 Estou estudando Java e Kotlin. Java foi a primeira linguagem que tive contato e kotlin foi a minha descoberta para estudar na stack mobile. Tenho focado meus estudos nas plataformas da ALURA e DIO.
-- 🧔 Mais de mim: Sempre busquei me adaptar as situações, antes da barbearia, meus primeiros empregos foram voltados para o varejo. Através da barbearia, conheci muitas pessoas e profissionais da área de TI. Com a pandemia, percebi a oportunidade que trabalhar com tecnologia pode nos proporcionar e decidi iniciar essa transição de carreira. 
-- ❤ Curiosidades: Gosto de futebol, volei, natação. Café, pizza e churrasco.
+## Olá, eu sou o Daniel, bem-vindo ao meu GitHub! 😎🧐
+🔭 Sou barbeiro desde 2018 e sou sócio de uma barbearia localizada no Centro de Gravataí - RS, juntamente com mais três colegas.
+
+👨‍💻📱 Atualmente, estou focado em estudar Java e Kotlin. Java foi a primeira linguagem com a qual tive contato, e Kotlin foi uma descoberta empolgante para minha jornada no desenvolvimento mobile. Tenho direcionado meus estudos para as plataformas da ALURA e DIO.
+
+🧔 Um pouco mais sobre mim: Sempre me adaptei às diferentes situações. Antes de me tornar barbeiro, trabalhei no varejo. Através da barbearia, tive a oportunidade de conhecer diversas pessoas e profissionais da área de TI. Durante a pandemia, percebi a incrível oportunidade que a tecnologia oferece e decidi iniciar uma transição de carreira nessa direção.
+
+❤ Curiosidades: Além de minha paixão pela tecnologia, também sou fã de futebol, vôlei e natação. Adoro apreciar um bom café, pizza e churrasco.
 <div align="center">
   <a href="https://github.com/daniellhrt">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daniellhrt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
