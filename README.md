@@ -1,7 +1,7 @@
 ## Olá, eu sou o Daniel, bem-vindo ao meu GitHub! 😎🧐
-🔭 Sou barbeiro desde 2018 e sou sócio de uma barbearia localizada no Centro de Gravataí - RS, juntamente com mais três colegas.
+🔭Barbeiro desde 2018, atualmente sou sócio de uma barbearia localizada no Centro de Gravataí - RS, juntamente com mais três colegas.
 
-👨‍💻📱 Atualmente, estou focado em estudar Java e Kotlin. Java foi a primeira linguagem com a qual tive contato, e Kotlin foi uma descoberta empolgante para minha jornada no desenvolvimento mobile. Tenho direcionado meus estudos para as plataformas da ALURA e DIO.
+👨‍💻📱 Hoje estou focado em estudar Java e Kotlin. Java foi a primeira linguagem com a qual tive contato, e Kotlin foi uma descoberta empolgante para minha jornada no desenvolvimento mobile. Tenho direcionado meus estudos para as plataformas da ALURA e minha graduação em analise e desenvolvimento de sistema na UNIFATECIE.
 
 🧔 Um pouco mais sobre mim: Sempre me adaptei às diferentes situações. Antes de me tornar barbeiro, trabalhei no varejo. Através da barbearia, tive a oportunidade de conhecer diversas pessoas e profissionais da área de TI. Durante a pandemia, percebi a incrível oportunidade que a tecnologia oferece e decidi iniciar uma transição de carreira nessa direção.
 
