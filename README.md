@@ -1,4 +1,4 @@
-## Olá, eu sou o Daniel, bem-vindo ao meu GitHub! 😎🧐
+## Olá, eu sou o Daniel, bem-vindo ao meu GitHub! 😎
 🔭Barbeiro desde 2018, atualmente sou sócio de uma barbearia localizada no Centro de Gravataí - RS, juntamente com mais três colegas.
 
 👨‍💻📱 Hoje estou focado em estudar Java e Kotlin. Java foi a primeira linguagem com a qual tive contato, e Kotlin foi uma descoberta empolgante para minha jornada no desenvolvimento mobile. Tenho direcionado meus estudos para as plataformas da ALURA e minha graduação em analise e desenvolvimento de sistema na UNIFATECIE.
